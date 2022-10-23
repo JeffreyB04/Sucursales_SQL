@@ -9,14 +9,7 @@ import javax.swing.border.Border;
 import java.awt.*;
 import java.io.IOException;
 
-/***************************************/
-/*  Univercidad Nacional.
-/*  Escuela de informatica.
-/*  Porfesor:Jose Sanchez.
-/*  Integrantes:
-/*  Daniela Madrigal Morales 1175-30126
-/*  Jennifer Lobo Vasquez    2080-20417
-/***************************************/
+
 
 public class Application {
     public static void main(String[] args) throws Exception {
